@@ -1,3 +1,3 @@
 # text-alignment_with_c
 
-Program służy do mnożenia macierzy pasmowej(wstęgowej) przez wektor
+Program justuje dowolny tekst do prawego marginesu, z rónomiernie rozłożonymi spacjiami między wyrazami.
